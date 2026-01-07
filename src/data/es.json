@@ -1,0 +1,131 @@
+{
+  "lang": "es",
+
+  "seo": {
+    "title": "John Doe | Desarrollador Web",
+    "description": "Portfolio profesional de Jon Doe, desarrollador web especializado en sitios modernos y rápidos."
+  },
+
+  "nav": {
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "John Doe",
+    "role": "Desarrollador Full Stack",
+    "description": "Ayudo a personas y negocios a tener presencia online con sitios web modernos, rápidos y optimizados.",
+    "btnPrimary": "Ver proyectos",
+    "btnSecondary": "Descargar CV",
+    "github": "https://github.com",
+    "linkedin": "https://www.linkedin.com",
+    "email": "hola@ejemplo.com"
+  },
+
+  "about": {
+    "title": "Sobre mí",
+    "text": ["Soy desarrollador web con experiencia en la creación de sitios y aplicaciones modernas.",
+    
+    "Me especializo en construir interfaces limpias, rápidas y enfocadas en la experiencia del usuario." ,
+
+    "Me apasiona aprender nuevas tecnologías y mejorar continuamente mis habilidades para ofrecer soluciones de alta calidad."]
+  },
+
+  "skills": {
+  "title": "Habilidades",
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": ["React", "Next.js", "TypeScript", "Tailwind CSS", "Redux"]
+    },
+    {
+      "category": "Backend",
+      "items": ["Node.js", "Express", "PostgreSQL", "MongoDB", "GraphQL"]
+    },
+    {
+      "category": "Herramientas",
+      "items": ["Git", "Docker", "AWS", "Vercel", "Figma"]
+    },
+    {
+      "category": "Otros",
+      "items": ["REST APIs", "Testing", "CI/CD", "Agile", "Web Accessibility"]
+    }
+  ]
+},
+
+
+  "experience": {
+    "title": "Experiencia",
+    "items": [
+      {
+        "company": "Tech Company",
+        "role": "Desarrollador Web Full-Stack Senior",
+        "period": "2022 - Presente",
+        "description": "Desarrollo de sitios web para clientes independientes y pequeñas empresas.",
+        "stack": ["React", "Node.js", "MongoDB"]
+      },
+      {
+        "company": "Agencia Digital",
+        "role": "Frontend Developer",
+        "period": "2020 - 2022",
+        "description": "Implementación de interfaces web y optimización de performance.",
+        "stack": ["HTML", "CSS", "JavaScript", "React"]
+      },
+      {
+        "company": "Startup XYZ",
+        "role": "Junior Web Developer",
+        "period": "2018 - 2020",
+        "description": "Mantenimiento y desarrollo de nuevas funcionalidades para la plataforma web.",
+        "stack": ["Node.js", "Express", "PostgreSQL"]
+      }
+    ]
+  },
+
+  "projects": {
+    "title": "Proyectos",
+    "items": [
+      {
+        "title": "Plataforma de E-commerce Moderna",
+        "description": "Sitio web optimizado para conversión.",
+        "image": "/Project-1.png",
+        "tech": ["Next.js", "TypeScript", "Stripe", "PostgreSQL"],
+        "github": "https://github.com",
+        "url": "#"
+      },     
+      {
+        "title": " Aplicación de Gestión de Tareas",
+        "description": "Sitio web optimizado para conversión.",
+        "image": "/Project-2.png",
+        "tech": ["React", "Node.js", "Socket.io", "MongoDB"],
+        "github": "https://github.com",
+        "url": "#"
+      },
+      {
+        "title": "Portfolio Personal",
+        "description": "Sitio web optimizado para conversión.",
+        "image": "/Project-3.png",
+        "tech": ["Next.js", "Tailwind", "Supabase", "Vercel"],
+        "github": "https://github.com",
+        "url": "#"
+      }
+    ]
+  },
+
+  "contact": {
+    "title": "Contacto",
+    "description": "¿Querés trabajar conmigo o tenés alguna consulta?",
+    "email": "hola@ejemplo.com",
+    "github": "https://github.com",
+    "linkedin": "https://www.linkedin.com",
+    "placeholder": ["Tu nombre", "Tu email", "Tu mensaje"],
+    "btnText": "Enviar mensaje"
+  },
+
+  "footer": {
+    "text": "© 2026 Juan Pérez. Todos los derechos reservados. Creado por "
+  }
+}

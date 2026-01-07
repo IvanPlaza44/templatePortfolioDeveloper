@@ -1,0 +1,26 @@
+---
+const { lang } = Astro.props;
+
+const esPath = "/es/";
+const enPath = "/en/";
+---
+
+<div class="flex gap-2 text-sm">
+  <a
+    href={esPath}
+    class={`px-3 py-1 rounded ${
+      lang === "en" ? "bg-black text-white" : "border border-gray-300"
+    }`}
+  >
+    ES
+  </a>
+
+  <a
+    href={enPath}
+    class={`px-3 py-1 rounded ${
+      lang === "es" ? "bg-black text-white" : "border border-gray-300"
+    }`}
+  >
+    EN
+  </a>
+</div>

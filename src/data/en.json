@@ -1,0 +1,132 @@
+{
+  "lang": "es",
+
+  "seo": {
+    "title": "John Doe | Full-Stack Developer",
+    "description": "Professional Full-Stack Developer specializing in modern web applications. Helping individuals and businesses establish a strong online presence with fast, optimized websites."
+  },
+  
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "John Doe",
+    "role": "Full-Stack Developer",
+    "description": "I build accessible, pixel-perfect digital experiences for the web. Passionate about creating elegant solutions to complex problems.",
+    "btnPrimary": "View My Work",
+    "btnSecondary": "Download CV",
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com",
+    "email": "hola@ejemplo.com"
+  },
+
+  "nav": {
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+
+  "about": {
+    "title": "About Me",
+    "text": 
+    ["I'm a developer passionate about crafting accessible, pixel-perfect user interfaces that blend thoughtful design with robust engineering. My favorite work lies at the intersection of design and development, creating experiences that not only look great but are meticulously built for performance and usability.",
+
+    "Currently, I'm a Senior Full-Stack Developer specializing in modern web technologies. I contribute to the creation and maintenance of scalable applications, ensuring they meet web accessibility standards and best practices to deliver an inclusive user experience.",
+
+    "In the past, I've had the opportunity to develop software across a variety of settings—from advertising agencies and large corporations to start-ups and small digital product studios. I enjoy tackling complex challenges and turning them into simple, beautiful solutions."]
+  },
+
+  "skills": {
+  "title": "Skills",
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": ["React", "Next.js", "TypeScript", "Tailwind CSS", "Redux"]
+    },
+    {
+      "category": "Backend",
+      "items": ["Node.js", "Express", "PostgreSQL", "MongoDB", "GraphQL"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Git", "Docker", "AWS", "Vercel", "Figma"]
+    },
+    {
+      "category": "Others",
+      "items": ["REST APIs", "Testing", "CI/CD", "Agile", "Web Accessibility"]
+    }
+  ]
+},
+
+
+  "experience": {
+    "title": "Experience",
+    "items": [
+      {
+        "company": "Tech Company",
+        "role": "Senior Full-Stack Developer",
+        "period": "2022 - Present",
+        "description": "Lead development of enterprise applications using React and Node.js. Collaborate with cross-functional teams to deliver high-quality solutions.",
+        "stack": ["React", "Node.js", "MongoDB"]
+      },
+      {
+        "company": "Digital Agency",
+        "role": "Frontend Developer",
+        "period": "2020 - 2022",
+        "description": "Built responsive web applications for various clients. Implemented modern design systems and ensured web accessibility compliance.",
+        "stack": ["HTML", "CSS", "JavaScript", "React"]
+      },
+      {
+        "company": "Startup XYZ",
+        "role": "Junior Web Developer",
+        "period": "2018 - 2020",
+        "description": "Developed and maintained the company website and internal tools. Worked closely with designers to create seamless user experiences.",
+        "stack": ["Node.js", "Express", "PostgreSQL"]
+      }
+    ]
+  },
+
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "title": "Modern E-commerce Platform",
+        "description": "Website optimized for conversion.",
+        "image": "/Project-1.png",
+        "tech": ["Next.js", "TypeScript", "Stripe", "PostgreSQL"],
+        "github": "https://github.com",
+        "url": "#"
+      },     
+      {
+        "title": "Task Management Application",
+        "description": "Website optimized for conversion.",
+        "image": "/Project-2.png",
+        "tech": ["React", "Node.js", "Socket.io", "MongoDB"],
+        "github": "https://github.com",
+        "url": "#"
+      },
+      {
+        "title": "Personal Portfolio",
+        "description": "Website optimized for conversion.",
+        "image": "/Project-3.png",
+        "tech": ["Next.js", "Tailwind", "Supabase", "Vercel"],
+        "github": "https://github.com",
+        "url": "#"
+      }
+    ]
+  },
+
+  "contact": {
+    "title": "Get In Touch",
+    "description": "I'm always interested in hearing about new projects and opportunities. Whether you have a question or just want to say hi, feel free to reach out!",
+    "email": "hola@ejemplo.com",
+    "github": "https://github.com",
+    "linkedin": "https://www.linkedin.com",
+    "placeholder": ["Your name", "Your email", "Your message"],
+    "btnText": "Send message"
+  },
+
+  "footer": {
+    "text": "© 2026 John Doe. All rights reserved. Created By "
+  }
+}

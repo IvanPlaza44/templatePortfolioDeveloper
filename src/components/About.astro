@@ -1,0 +1,17 @@
+---
+const { title, text} = Astro.props;
+---
+
+<section id="about" class="py-24 px-4">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-4xl md:text-5xl font-bold mb-12">{ title }</h2>
+
+        <div class="space-y-6 text-lg text-muted-foreground leading-relaxed">
+          
+            {text.map ((paragraph) => (
+              <p>{paragraph}</p>
+            ))}
+          
+        </div>
+      </div>
+    </section>
